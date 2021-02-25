@@ -18,8 +18,6 @@
 
 <p align="center">
   <img src="./screenshots/home.png" width="45%" />
-  <img src="./screenshots/home-cycle-started.png" width="45%" />
-  <img src="./screenshots/home-cycle-finished.png" width="45%" />
 </p>
 
 ---
